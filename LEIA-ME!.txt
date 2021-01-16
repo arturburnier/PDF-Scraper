@@ -1,0 +1,22 @@
+Manual de uso do TEXTract-v2
+
+1-Coloque o arquivo PDF nesta pasta;
+
+2-Renomeie o arquivo pdf para "arquivo.pdf";
+
+3-Execute o arquivo "Executar.exe";
+
+4-Aguarde o processamento dos dados;
+
+5-O resultado pode ser encontrado na pasta com o nome "output.txt"
+
+6-Delete ou remova da pasta o arquivo "output.txt" para cada nova utilização.
+
+
+
+OBS:O arquivo pode ser convertido para colunas em planilhas utilizando ";" como delimitador.
+
+OBS2:Duplicatas de cada pagina foram excluidas.
+
+OBS3:Em caso de erro no processamento, tente reimprimir o arquivo utilizando 
+a impressora de PDF da Microsoft.
